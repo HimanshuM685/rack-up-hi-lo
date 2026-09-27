@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { parseEther } from "viem";
 import { Countdown } from "@/components/countdown";
+import { Leaderboard } from "@/components/leaderboard";
 import { PoolBall } from "@/components/pool-ball";
 import { SiteHeader } from "@/components/site-header";
 import { useFaucetClaim, useGameActions, useGameSnapshot } from "@/hooks/use-game";
@@ -146,6 +147,15 @@ export function GameRoom() {
             </div>
           </div>
         </section>
+
+        <Leaderboard
+          configured={snapshot.configured}
+          gameId={snapshot.currentGameId}
+          phase={snapshot.phase}
+          round={snapshot.round}
+          roundId={snapshot.currentRoundId}
+          self={snapshot.address}
+        />
 
         <div className="stack">
           {!snapshot.configured ? (

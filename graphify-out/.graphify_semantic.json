@@ -1,0 +1,1061 @@
+{
+  "nodes": [
+    {
+      "id": "agents",
+      "label": "AGENTS.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "agents_this_is_not_the_next_js_you_know",
+      "label": "This is NOT the Next.js you know",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "claude",
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "gemini",
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "gemini_graphify",
+      "label": "graphify",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_rack_up",
+      "label": "Rack Up",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_what_is_included",
+      "label": "What is included",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_local_development",
+      "label": "Local development",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_base_sepolia_setup",
+      "label": "Base Sepolia setup",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_game_lifecycle",
+      "label": "Game lifecycle",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_security_boundaries",
+      "label": "Security boundaries",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L78",
+      "_origin": "ast"
+    },
+    {
+      "id": "contracts_readme",
+      "label": "README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "contracts/README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "contracts_readme_hi_lo_contracts",
+      "label": "Hi-Lo contracts",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "contracts/README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "contracts_readme_contracts",
+      "label": "Contracts",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "contracts/README.md",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "contracts_readme_commands",
+      "label": "Commands",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "contracts/README.md",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo",
+      "label": "todo.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "tasks/todo.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_todo",
+      "label": "Todo",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_plan",
+      "label": "Plan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verification",
+      "label": "Verification",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_review",
+      "label": "Review",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_changed",
+      "label": "Changed",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verified",
+      "label": "Verified",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_risks",
+      "label": "Risks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L34",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_follow_ups",
+      "label": "Follow-ups",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L40",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_github_and_vercel_publish",
+      "label": "GitHub and Vercel publish",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_plan_46",
+      "label": "Plan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L46",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verification_53",
+      "label": "Verification",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L53",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_review_58",
+      "label": "Review",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L58",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_changed_60",
+      "label": "Changed",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verified_65",
+      "label": "Verified",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L65",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_risks_70",
+      "label": "Risks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L70",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_follow_ups_74",
+      "label": "Follow-ups",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L74",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_base_sepolia_deployment",
+      "label": "Base Sepolia deployment",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L78",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_plan_80",
+      "label": "Plan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L80",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verification_95",
+      "label": "Verification",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L95",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_review_106",
+      "label": "Review",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L106",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_changed_108",
+      "label": "Changed",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L108",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verified_117",
+      "label": "Verified",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L117",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_risks_128",
+      "label": "Risks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L128",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_follow_ups_134",
+      "label": "Follow-ups",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L134",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_live_elimination_and_roster_changes",
+      "label": "Live elimination and roster changes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L139",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_plan_141",
+      "label": "Plan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L141",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verification_149",
+      "label": "Verification",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L149",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_review_155",
+      "label": "Review",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L155",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_changed_157",
+      "label": "Changed",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L157",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verified_164",
+      "label": "Verified",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L164",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_risks_170",
+      "label": "Risks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L170",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_follow_ups_176",
+      "label": "Follow-ups",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L176",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_unresolved_questions",
+      "label": "Unresolved questions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L181",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_publish_live_elimination_game",
+      "label": "Publish live elimination game",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L185",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_plan_187",
+      "label": "Plan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L187",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verification_196",
+      "label": "Verification",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L196",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_review_202",
+      "label": "Review",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L202",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_changed_204",
+      "label": "Changed",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L204",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_verified_209",
+      "label": "Verified",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L209",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_risks_217",
+      "label": "Risks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L217",
+      "_origin": "ast"
+    },
+    {
+      "id": "tasks_todo_follow_ups_222",
+      "label": "Follow-ups",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "tasks/todo.md",
+      "source_location": "L222",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_app_icon_svg",
+      "label": "icon.svg",
+      "file_type": "image",
+      "node_kind": "asset",
+      "source_file": "src/app/icon.svg",
+      "source_location": "L1",
+      "summary": "SVG brand icon showing 8-ball pool ball for Rack Up Hi-Lo",
+      "_origin": "semantic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "agents",
+      "target": "agents_this_is_not_the_next_js_you_know",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "gemini",
+      "target": "gemini_graphify",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_rack_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_rack_up",
+      "target": "readme_what_is_included",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_rack_up",
+      "target": "readme_local_development",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_rack_up",
+      "target": "readme_base_sepolia_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_rack_up",
+      "target": "readme_game_lifecycle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_rack_up",
+      "target": "readme_security_boundaries",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "contracts_readme",
+      "target": "contracts_readme_hi_lo_contracts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "contracts/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "contracts_readme_hi_lo_contracts",
+      "target": "contracts_readme_contracts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "contracts/README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "contracts_readme_hi_lo_contracts",
+      "target": "contracts_readme_commands",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "contracts/README.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo",
+      "target": "tasks_todo_todo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_plan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_verification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_review",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review",
+      "target": "tasks_todo_changed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review",
+      "target": "tasks_todo_verified",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review",
+      "target": "tasks_todo_risks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review",
+      "target": "tasks_todo_follow_ups",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_github_and_vercel_publish",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_github_and_vercel_publish",
+      "target": "tasks_todo_plan_46",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_github_and_vercel_publish",
+      "target": "tasks_todo_verification_53",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_github_and_vercel_publish",
+      "target": "tasks_todo_review_58",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_58",
+      "target": "tasks_todo_changed_60",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_58",
+      "target": "tasks_todo_verified_65",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L65",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_58",
+      "target": "tasks_todo_risks_70",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L70",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_58",
+      "target": "tasks_todo_follow_ups_74",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_base_sepolia_deployment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_base_sepolia_deployment",
+      "target": "tasks_todo_plan_80",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L80",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_base_sepolia_deployment",
+      "target": "tasks_todo_verification_95",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_base_sepolia_deployment",
+      "target": "tasks_todo_review_106",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L106",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_106",
+      "target": "tasks_todo_changed_108",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_106",
+      "target": "tasks_todo_verified_117",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L117",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_106",
+      "target": "tasks_todo_risks_128",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_106",
+      "target": "tasks_todo_follow_ups_134",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_live_elimination_and_roster_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L139",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_live_elimination_and_roster_changes",
+      "target": "tasks_todo_plan_141",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L141",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_live_elimination_and_roster_changes",
+      "target": "tasks_todo_verification_149",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_live_elimination_and_roster_changes",
+      "target": "tasks_todo_review_155",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L155",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_155",
+      "target": "tasks_todo_changed_157",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L157",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_155",
+      "target": "tasks_todo_verified_164",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L164",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_155",
+      "target": "tasks_todo_risks_170",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L170",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_155",
+      "target": "tasks_todo_follow_ups_176",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L176",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_155",
+      "target": "tasks_todo_unresolved_questions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L181",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_todo",
+      "target": "tasks_todo_publish_live_elimination_game",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L185",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_publish_live_elimination_game",
+      "target": "tasks_todo_plan_187",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L187",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_publish_live_elimination_game",
+      "target": "tasks_todo_verification_196",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L196",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_publish_live_elimination_game",
+      "target": "tasks_todo_review_202",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L202",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_202",
+      "target": "tasks_todo_changed_204",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L204",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_202",
+      "target": "tasks_todo_verified_209",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L209",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_202",
+      "target": "tasks_todo_risks_217",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tasks_todo_review_202",
+      "target": "tasks_todo_follow_ups_222",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tasks/todo.md",
+      "source_location": "L222",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

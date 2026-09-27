@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect } from "react";
+import { useCallback, useEffect, useRef } from "react";
 import {
   useAccount,
   useBalance,
@@ -160,11 +160,24 @@ export function useGameSnapshot() {
     walletBalance,
   ]);
 
+  const refreshTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const refreshSoon = useCallback(() => {
+    if (refreshTimer.current !== null) clearTimeout(refreshTimer.current);
+    refreshTimer.current = setTimeout(() => {
+      refreshTimer.current = null;
+      refresh();
+    }, 400);
+  }, [refresh]);
+
+  useEffect(() => () => {
+    if (refreshTimer.current !== null) clearTimeout(refreshTimer.current);
+  }, [refreshSoon]);
+
   useWatchContractEvent({
     address: gameAddress,
     abi: hiLoGameAbi,
     enabled: Boolean(gameAddress),
-    onLogs: refresh,
+    onLogs: refreshSoon,
   });
 
   useEffect(() => {
